@@ -1,1 +1,1 @@
-# DSML
+Remove-Item (Get-PSReadLineOption).HistorySavePath
